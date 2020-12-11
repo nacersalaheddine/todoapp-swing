@@ -1,0 +1,77 @@
+{
+    "data": {
+        "todos_lists": [
+            {
+                "list_id": 1,
+                "last_todo_id": 1,
+                
+                "creation_timestamp": 1602376662307,
+                "datetime_created": "SUNDAY-10-11-2020 / 1:37:42",
+                "list_name": "new list",
+                "todos": [{
+                        "creation_timestamp": 1602376662496,
+                        "datetime_created": "SUNDAY-10-11-2020 / 1:37:42",
+                        "todo_content": "this is a new todo",
+                        "id": 1,
+                        "status": "DONE"
+                    }],
+                "todos_number": 1,
+                "todos_active_status": "ACTIVE"
+            }, {
+                "last_todo_id": 0,
+                "list_id": 2,
+                "creation_timestamp": 1602376875086,
+                "datetime_created": "SUNDAY-10-11-2020 / 1:41:14",
+                "list_name": "newListName",
+                "todos": [],
+                "todos_number": 0,
+                "todos_active_status": "INACTIVE"
+            }, {
+                "last_todo_id": 4,
+                "list_id": 4,
+                "creation_timestamp": 1602376976581,
+                "datetime_created": "SUNDAY-10-11-2020 / 1:42:56",
+                "list_name": "salah todos",
+                "todos": [{
+                        "creation_timestamp": 1602377037914,
+                        "datetime_created": "SUNDAY-10-11-2020 / 1:43:57",
+                        "todo_content": "salah todos ffg d fgsdf g",
+                        "id": 1,
+                        "status": "DONE"
+                    }, {
+                        "creation_timestamp": 1602377041383,
+                        "datetime_created": "SUNDAY-10-11-2020 / 1:44:1",
+                        "todo_content": "salah todos ffg d fgsdf g",
+                        "id": 2,
+                        "status": "PENDING"
+                    }, {
+                        "creation_timestamp": 1602377650830,
+                        "datetime_created": "SUNDAY-10-11-2020 / 1:54:10",
+                        "todo_content": "salah todos ffg d fgsdf g",
+                        "id": 3,
+                        "status": "PENDING"
+                    }, {
+                        "creation_timestamp": 1602378595254,
+                        "datetime_created": "SUNDAY-10-11-2020 / 2:9:55",
+                        "todo_content": "aaaaaaaaaa",
+                        "id": 4,
+                        "status": "DONE"
+                    }],
+                "todos_number": 4,
+                "todos_active_status": "ACTIVE"
+            }],
+        "last_list_id": 4,
+        "lists_number": 3
+    },
+    "user_name": "salah.eddine",
+    "creation_timestamp": 1602376662481,
+    "creation_datetime": "SUNDAY-10-11-2020 / 1:37:42",
+    "@meta": {
+        "author_email_": "nacersalaheddine05@gmail.com",
+        "author_": "Salah eddine Nacer",
+        "app_creation_timestamp_": 1599855634,
+        "app_creation_datetime_": "SATURDAY-10-10-2020 / 12:25:33",
+        "application_description_": "A To-Do Application",
+        "application_version_": 1
+    }
+}

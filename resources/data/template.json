@@ -1,0 +1,29 @@
+{
+    "user_name": "salah.eddine",
+    "creation_datetime": "SATURDAY-10-10-2020 / 3:28:39",
+    "creation_timestamp_": 1599855634,
+    "data": {
+        "lists_number": 1,
+        "todos_lists": [
+            {
+                "list_id": 1,
+                "list_name": "new list",
+                "todos_number": 0,
+                "todos_active_status": "ACTIVE",
+                "datetime_created": "SATURDAY-10-10-2020 / 3:28:39",
+                "creation_timestamp": 1599855634,
+                "todos": [
+                ]
+            }
+
+        ]
+    },
+    "@meta": {
+        "app_creation_datetime_": "SATURDAY-10-10-2020 / 12:25:33",
+        "app_creation_timestamp_": 1599855634 ,
+        "author_": "Salah eddine Nacer",
+        "author_email_": "nacersalaheddine05@gmail.com",
+        "application_version_": 1,
+        "application_description_": "A To-Do Application"
+    }
+}
