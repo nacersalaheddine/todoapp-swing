@@ -1,6 +1,8 @@
 # todoapp-swing
 
 ## A simple todo application built with java and swing UI-toolkit
+##
+[![Watch the video](https://img.youtube.com/vi/lVFYXa-jrgU/maxresdefault.jpg)](https://youtu.be/lVFYXa-jrgU)
 ## Main UI >
 ![1](https://user-images.githubusercontent.com/20127375/100835327-be141980-346d-11eb-848c-093ddb35800d.png)
 ## >
