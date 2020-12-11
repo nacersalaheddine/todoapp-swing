@@ -4,3 +4,4 @@ nbproject
 test
 build.xml
 manifest.mf
+resources/test_res
